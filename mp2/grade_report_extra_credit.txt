@@ -1,0 +1,26 @@
+Grading r7680 by lujin2 committed on Tue Jan 31 10:31:49 CST 2017
+Monad Autograder
+Testing mp2.1 at 2017-02-04 00:48:06
+
+"Procrastination: working tomorrow for a better today." ~ Anonymous
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+InvertColorsEven  . . [30 pts] - passed
+FlipLeftEven  . . . . [15 pts] - passed
+FlipLeftOdd . . . . . [15 pts] - passed
+AdjustBrightnessEven  [10 pts] - passed
+AdjustBrightnessEven2 [10 pts] - passed
+AdjustBrightnessEven3 [10 pts] - passed
+ImageMakefile . . . . [10 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

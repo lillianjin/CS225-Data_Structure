@@ -1,0 +1,24 @@
+Grading r47577 by lujin2 committed on Wed Apr 19 17:33:00 CDT 2017
+Monad Autograder
+Testing mp7.1 at 2017-04-22 00:27:43
+
+"If you just rely on one model, you tend to amputate reality to make it fit your model." ~ David Brooks
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+addElements1 . . . . [20 pts] - passed
+addElements2 . . . . [20 pts] - passed
+testFindAndSetUnion1 [20 pts] - passed
+testFindAndSetUnion2 [20 pts] - passed
+testFindAndSetUnion3 [20 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+
